@@ -39,6 +39,4 @@ printf("Pontos Turisticos: %d\n",pontos_turisticos);
 
 return 0;
 
-
-
 }
